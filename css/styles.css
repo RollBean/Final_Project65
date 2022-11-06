@@ -1,0 +1,103 @@
+.menu_select{
+  height:500px;
+  width: 500px;
+  position:relative;
+  right: 10px;
+  top: 5px;
+}
+.Menu{
+  margin-top: 0;
+  font-family: 'Charm', cursive;
+  font-size: 2em;
+  position: relative;
+  left: 175px;
+  bottom: 150px;
+}
+.Smart_ordering{
+  height:500px;
+  width: 500px;
+  position:relative;
+  top: 5px;
+}
+.Order{
+  margin-top: 0;
+  font-family: 'Charm', cursive;
+  font-size: 2em;
+  position: relative;
+  left:670px;
+  bottom: 215px;
+}
+.Smart_Queue{
+  height:500px;
+  width: 500px;
+  position:relative;
+  top: 5px;
+}
+.Queue{
+  margin-top: 0;
+  font-family: 'Charm', cursive;
+  font-size: 2em;
+  position: relative;
+  left: 1200px;
+  bottom: 285px;
+}
+.Staff{
+  height:500px;
+  width: 500px;
+  position:absolute;
+  top: 400px;
+  left : 0px;
+}
+.Staffs{
+  margin-top: 0;
+  font-family: 'Charm', cursive;
+  font-size: 2em;
+  position:absolute;
+  left: 230px;
+  top: 750px;
+}
+.Smart_Cachier{
+  height:500px;
+  width: 500px;
+  position:absolute;
+  top: 400px;
+  left : 500px;
+}
+.Cachier{
+  margin-top: 0;
+  font-family: 'Charm', cursive;
+  font-size: 2em;
+  position:absolute;
+  left:680px;
+  top: 750px;
+}
+.Smart_Report{
+  height:500px;
+  width: 500px;
+  position:absolute;
+  top: 400px;
+  left : 1030px;
+}
+.Report{
+  margin-top: 0;
+  font-family: 'Charm', cursive;
+  font-size: 2em;
+  position:absolute;
+  left:1220px;
+  top: 750px;
+}
+.Printer{
+  height:500px;
+  width: 500px;
+  position:absolute;
+  top: 750px;
+  left : 520px;
+}
+.Printers{
+  margin-top: 0;
+  font-family: 'Charm', cursive;
+  font-size: 2em;
+  position:absolute;
+  left:720px;
+  top: 1100px;
+}
